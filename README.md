@@ -69,10 +69,10 @@ Install the required dependencies using `pip`:
    ```bash
    pip install numpy
    ```
-**Overall command**
+##Overall command
 
 ```bash
-pip install tensorflow streamlit opencv-python opencv-python-headless mediapipe
+pip install tensorflow streamlit opencv-python opencv-python-headless mediapipe numpy
 ```
 
 ### **Step 5: Setting Up the Project Files**
