@@ -121,7 +121,3 @@ Install the required dependencies using `pip`:
 ## **Conclusion**
 
 This project demonstrates how to integrate face detection and anti-spoofing into a real-time application using deep learning and computer vision. The provided setup and instructions will guide you through the process of configuring your environment and running the Streamlit application. Enjoy experimenting with face detection and anti-spoofing in real time!
-
----
-
-This markdown guide should help set up and run the project smoothly.
