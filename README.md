@@ -69,10 +69,14 @@ Install the required dependencies using `pip`:
    ```bash
    pip install numpy
    ```
+6. **Cryptography**: For encryption before inserting within the database.
+   ```bash
+   pip install crypotography
+   ```
 ## Overall command
 
 ```bash
-pip install tensorflow streamlit opencv-python opencv-python-headless mediapipe numpy
+pip install tensorflow streamlit opencv-python opencv-python-headless mediapipe numpy cryptography
 ```
 
 ### **Step 5: Setting Up the Project Files**
@@ -126,3 +130,7 @@ pip install tensorflow streamlit opencv-python opencv-python-headless mediapipe 
 ## **Conclusion**
 
 This project demonstrates how to integrate face detection and anti-spoofing into a real-time application using deep learning and computer vision. The provided setup and instructions will guide you through the process of configuring your environment and running the Streamlit application. Enjoy experimenting with face detection and anti-spoofing in real time!
+
+## Environment Arrangement
+
+For reference, the entire **face_antispoofing** anaconda environment has been placed within the database. Do not download it.
